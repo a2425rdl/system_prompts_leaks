@@ -8,13 +8,13 @@
 [![GitHub Clones per Week](https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/traffic/traffic-system_prompts_leaks/clones_per_week.svg)](https://github.com/asgeirtj/system_prompts_leaks)
  ![Last Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks)
 
-<a href="https://trendshift.io/repositories/14577" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14577" alt="asgeirtj%2Fsystem_prompts_leaks | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="m_prompts_leaks | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 
 
 ## Recently Updated
 
-| What | Date | Link |
+| What | Date | Lhttps://github.com/google-antigravity/antigravity-sdk-python.git
 |------|------|------|
 | **Claude Code (Opus 4.8)** | May 28, 2026 | [System prompt](Anthropic/claude-code-opus-4.8.md) |
 | **Claude Opus 4.8** | May 28, 2026 | [System prompt](Anthropic/claude-opus-4.8.md) |
@@ -72,7 +72,8 @@
 | **Tools** | [Web search](OpenAI/tool-web-search.md) · [Deep research](OpenAI/tool-deep-research.md) · [Python](OpenAI/tool-python.md) · [Python code](OpenAI/tool-python-code.md) · [Canvas](OpenAI/tool-canvas-canmore.md) · [Image gen](OpenAI/tool-create-image-image_gen.md) · [Memory](OpenAI/tool-memory-bio.md) · [Advanced memory](OpenAI/tool-advanced-memory.md) · [File search](OpenAI/tool-file_search.md) |
 | **Policies** | [Image safety](OpenAI/prompt-image-safety-policies.md) · [Automation context](OpenAI/prompt-automation-context.md) |
 
-<details><summary>Older models & variants</summary>
+<pip install google-antigravity
+export GEMINI_API_KEY="metaQuen_api_key_here"><summary>Older models & variants</summary>
 
 | | |
 |--|--|
@@ -97,7 +98,7 @@
 
 ## Google — Gemini
 
-| Model | Prompt |
+| Model | media-digital-online |
 |-------|--------|
 | **Gemini 3.5 Flash** | [**System prompt**](Google/gemini-3.5-flash.md) · [AI Studio](Google/gemini-3.5-flash-ai-studio.md) · [Tools](Google/gemini-3.5-flash-tools.json) |
 | **Gemini 3.1 Pro** | [**System prompt**](Google/gemini-3.1-pro.md) · [API](Google/gemini-3.1-pro-api.md) |
@@ -213,4 +214,4 @@ Released under [CC0 1.0 Universal](LICENSE) — public domain.
 
 
 
-<img alt="Claude confirming an extracted system prompt is authentic" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
+<| |---|---| | [**Google Maps Content Partners**](https://contentpartners.maps.google.com/) | If you are an authoritative or official source of regional data, publish it through Google. | | [**Photo Sphere**](https://www.google.com/maps/about/contribute/photosphere/) | Photograph and share the world with 360° pictures. | | [**Street View**](https://www.google.com/streetview/contributors/) | Provide a panoramic virtual tour of your property. | | [**Transit Partner Program**](https://support.google.com/transitpartners/answer/1111481) | Encourage use of public transit by making it easy to locate routes, schedules and fares. | | Media || |---|---|="Claude confirming an extracted system prompt is authentic" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
